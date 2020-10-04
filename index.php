@@ -3,7 +3,6 @@ require_once('php/component.php');
 require_once('php/operation.php')
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
